@@ -523,4 +523,4 @@
 
 ## Authors
 * **Dolores adagala** [github](https://github.com/lola-source/binary_trees)
-* **Joseph Rono** [github]() 
+* **Joseph Rono** [github](https://github.com/yelosolutions/) 
