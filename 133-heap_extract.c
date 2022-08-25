@@ -141,7 +141,7 @@ void loop_heap(heap_t **root, heap_t *new_root)
 			if (new_root->parent && new_root->parent->right == new_root)
 				new_root->parent->right = tmp;
 			else if (new_root->parent)
-				root->parent->left = tmp;
+/*				root->parent->left = tmp;*/
 			new_root->parent = tmp;
 			if (tmp && !tmp->parent)
 				*root = tmp;
